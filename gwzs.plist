@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+2 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd"> 
+3 <plist version="1.0"> 
+4 <dict> 
+5 	<key>items</key> 
+6 	<array> 
+7 		<dict> 
+8 			<key>assets</key> 
+9 			<array> 
+10 				<dict> 
+11 					<key>kind</key> 
+12 					<string>software-package</string> 
+13 					<key>url</key> 
+14 					<string>http://202.103.124.85:8081/group1/M00/00/01/hrAB01ds3xGANA9sACefl9rsRx4769.ipa</string> 
+15 				</dict> 
+16 			</array> 
+17 			<key>metadata</key> 
+18 			<dict> 
+19 				<key>bundle-identifier</key> 
+20 				<string>com.chinatelecom.hunan.gwzs</string> 
+21 				<key>bundle-version</key> 
+22 				<string>1.1</string> 
+23 				<key>kind</key> 
+24 				<string>software</string> 
+25 				<key>title</key> 
+26 				<string>岗位助手车</string> 
+27 			</dict> 
+28 		</dict> 
+29 	</array> 
+30 </dict> 
+31 </plist> 
