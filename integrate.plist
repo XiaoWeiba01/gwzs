@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://202.103.124.85:8081/group1/M00/00/01/hrAB01ds3xGANA9sACefl9rsRx4769.ipa</string>
+					<string>http://202.103.124.85:8081/group1/M00/00/01/hrAB01dx0fCAWPaZACeiRFxgmy4849.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
@@ -19,7 +19,7 @@
 				<key>bundle-identifier</key>
 				<string>com.chinatelecom.hunan.transfar.dsjztc</string>
 				<key>bundle-version</key>
-				<string>1.8</string>
+				<string>1.9</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
