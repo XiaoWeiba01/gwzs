@@ -20,7 +20,7 @@
      <string>com.chinatelecom.hunan.gwzs</string> 
      <key>bundle-version</key> 
      <string>1.1</string> 
-     <key>kind</key> 
+     <key>kind</key>
      <string>software</string> 
      <key>title</key>
      <string>岗位助手</string> 
