@@ -14,7 +14,7 @@
       <string>http://202.103.124.85:8081/group1/M00/00/02/hrAB01eNBOCAEHtrAK3hv0yzWMs066.ipa</string> 
     </dict>
     </array>
-    <key>metadata</key> 
+    <key>metadata</key>
     <dict>
      <key>bundle-identifier</key> 
      <string>com.chinatelecom.hunan.gwzs</string> 
