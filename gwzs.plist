@@ -16,7 +16,7 @@
     </array>
     <key>metadata</key>
     <dict>
-     <key>bundle-identifier</key> 
+     <key>bundle-identifier</key>
      <string>com.chinatelecom.hunan.gwzs</string> 
      <key>bundle-version</key> 
      <string>1.1</string> 
