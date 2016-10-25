@@ -11,12 +11,12 @@
       <key>kind</key> 
       <string>software-package</string> 
       <key>url</key>
-         <string>http://202.103.124.85:8081/group1/M00/00/03/hrAB0le-Uv-AZYmhAIKzXSBnrW0248.ipa</string> 
+         <string>http://202.103.124.85:8081/group1/M00/00/04/hrAB01gPWaCAKWkyAHk4W_2t4jE639.ipa</string> 
      </dict>
     </array>
     <key>metadata</key> 
     <dict>
-    <key>bundle-identifier</key> 
+    <key>bundle-identifier</key>
     <string>com.chinatelecom.hnChannelClient-IOS</string> 
      <key>bundle-version</key> 
      <string>3.6</string> 
