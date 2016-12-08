@@ -11,7 +11,7 @@
       <key>kind</key> 
       <string>software-package</string> 
       <key>url</key>
-         <string>http://202.103.124.85:8081/group1/M00/00/05/hrAB01hGhuOAOVMoALoNwWIH43A677.ipa</string> 
+         <string>http://202.103.124.85:8081/group1/M00/00/05/hrAB0lhJEhWAVysBALoQQw09c2M059.ipa</string> 
      </dict>
     </array>
     <key>metadata</key>
@@ -19,7 +19,7 @@
     <key>bundle-identifier</key> 
     <string>com.ztesoft.hn.EDAView</string> 
      <key>bundle-version</key> 
-     <string>0.0.1</string> 
+     <string>0.0.5</string> 
      <key>kind</key> 
      <string>software</string> 
      <key>title</key> 
