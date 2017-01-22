@@ -9,17 +9,9 @@
     <array> 
      <dict> 
       <key>kind</key> 
-      <string>software-package</string>
+      <string>software-package</string> 
       <key>url</key>
-         <string>http://202.103.124.85:8081/group1/M00/00/06/hrAB0liEFTKAQiS8AKT7W80F19I142.ipa</string>      </dict>
-    </array>
-    <key>metadata</key>
-    <dict>
-    <key>bundle-identifier</key> </string>      </dict>
-    </array>
-    <key>metadata</key>
-    <dict>
-    <key>bundle-identifier</key> </string> 
+         <string>http://202.103.124.85:8081/group1/M00/00/06/hrAB0liEFTKAQiS8AKT7W80F19I142.ipa</string> 
      </dict>
     </array>
     <key>metadata</key>
