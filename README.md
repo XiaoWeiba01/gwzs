@@ -18,3 +18,5 @@ sjsc.plist 经营视窗
 tyaqd.plist 天翼爱渠道
 
 zsx.plist 掌上销
+
+tyjs.plist 天翼建设
