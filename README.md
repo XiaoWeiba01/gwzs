@@ -22,3 +22,5 @@ zsx.plist 掌上销
 tyjs.plist 天翼建设
 
 tycg.plist 天翼采购
+
+ityysc.plist IT智慧运营视窗
